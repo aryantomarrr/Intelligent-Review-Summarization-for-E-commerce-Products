@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+deep-translator
+vaderSentiment
+scikit-learn
+transformers
+streamlit
